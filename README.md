@@ -4,15 +4,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=700&size=28&pause=1200&color=D4A017&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Shivanshu;An+aspiring+Data+Scientist+%F0%9F%A7%AA;Passionate+about+Machine+Learning+%26+AI+%F0%9F%A4%96;+and+transforming+data;into+meaningful+insights+%F0%9F%93%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English&weight=700&size=28&pause=1200&color=D4A017&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Shivanshu;An+aspiring+Data+Scientist+🧪;Passionate+about+Machine+Learning+%26+AI+🤖;Transforming+raw+data+into+meaningful+insights+📜)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivanshu26022007-create&label=Visitors&color=8b4513&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ShivanshuDS&label=Visitors&color=8b4513&style=flat-square)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/shivanshu26022007-create?label=Followers&style=flat-square&color=d4a017&labelColor=2c1810)
+![GitHub followers](https://img.shields.io/github/followers/ShivanshuDS?label=Followers&style=flat-square&color=d4a017&labelColor=2c1810)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/shivanshu26022007-create?label=Stars&style=flat-square&color=d4a017&labelColor=2c1810)
+![GitHub stars](https://img.shields.io/github/stars/ShivanshuDS?label=Stars&style=flat-square&color=d4a017&labelColor=2c1810)
 
 </div>
 
@@ -104,12 +104,13 @@
 
 <div align="center"><br/>
 
+<!-- IMPROVEMENT: Added placeholder repo names — update these with your actual repo URLs -->
 | 🗂️ Project | 🔬 Domain | 🛠️ Tech Used | 🔗 Link |
 |:---|:---:|:---:|:---:|
-| 🏠 **House Price Prediction** | Machine Learning | Python, Scikit-Learn, Pandas | [View →](https://github.com/shivanshu26022007-create) |
-| 💬 **Sentiment Analysis** | NLP | Python, TensorFlow, NLTK | [View →](https://github.com/shivanshu26022007-create) |
-| 🌐 **Portfolio Website** | Web Dev | HTML, CSS, JavaScript | [View →](https://github.com/shivanshu26022007-create) |
-| 📊 **Data Visualization Dashboard** | Data Analysis | Python, Matplotlib, Pandas | [View →](https://github.com/shivanshu26022007-create) |
+| 🏠 **House Price Prediction** | Machine Learning | Python, Scikit-Learn, Pandas | [View →](https://github.com/ShivanshuDS/house-price-prediction) |
+| 💬 **Sentiment Analysis** | NLP | Python, TensorFlow, NLTK | [View →](https://github.com/ShivanshuDS/sentiment-analysis) |
+| 🌐 **Portfolio Website** | Web Dev | HTML, CSS, JavaScript | [View →](https://github.com/ShivanshuDS/portfolio-website) |
+| 📊 **Data Visualization Dashboard** | Data Analysis | Python, Matplotlib, Pandas | [View →](https://github.com/ShivanshuDS/data-visualization-dashboard) |
 
 <br/>
 
@@ -125,13 +126,13 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivanshu26022007-create&show_icons=true&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&icon_color=8b4513&text_color=f5deb3&hide_border=false&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShivanshuDS&show_icons=true&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&icon_color=8b4513&text_color=f5deb3&hide_border=false&count_private=true" height="175" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu26022007-create&layout=compact&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&text_color=f5deb3&hide_border=false" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshuDS&layout=compact&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&text_color=f5deb3&hide_border=false" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shivanshu26022007-create&theme=gruvbox&border=d4a017&background=1a0f00&stroke=d4a017&ring=8b4513&fire=d4a017&currStreakLabel=d4a017&sideLabels=f5deb3&dates=a0856b" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ShivanshuDS&theme=gruvbox&border=d4a017&background=1a0f00&stroke=d4a017&ring=8b4513&fire=d4a017&currStreakLabel=d4a017&sideLabels=f5deb3&dates=a0856b" alt="GitHub Streak" />
 
 </div>
 
@@ -147,11 +148,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanshu26022007-create/shivanshu26022007-create/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanshu26022007-create/shivanshu26022007-create/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/shivanshu26022007-create/shivanshu26022007-create/output/github-snake.svg" />
-</picture>
+
 
 </div>
 
@@ -163,12 +160,11 @@
 
 <br/>
 
-<!-- Animated Skill Lines using github-readme-stats skill bars style -->
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,matplotlib&theme=dark&perline=6" alt="Skill Icons"/>
 
 <br/><br/>
 
-<!-- Beautiful horizontal skill lines -->
+
 <table border="0" align="center">
 <tr>
 <td><b>🐍 Python</b></td>
@@ -196,34 +192,14 @@
 </tr>
 </table>
 
+
 <br/>
 
 </div>
 
 ---
 
-## 🎯 ✦ 2025 Goals ✦
 
-<div align="center">
-
-<br/>
-
-```
-  ✅  Build 10+ Data Science Projects
-  🔄  Complete ML Specialization Course  
-  🔄  Contribute to Open Source
-  ⏳  Enter Kaggle Competitions
-  ⏳  Land First Internship / Freelance Project
-  ⏳  Master Deep Learning & Neural Networks
-```
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&border=true" alt="Random Dev Quote" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 ✦ Connect With Me ✦
 
@@ -232,19 +208,19 @@
 <br/>
 
 <a href="https://linkedin.com/in/shivanshu2007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0f00" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="54" height="54" alt="LinkedIn" title="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/thakur_shiva_2006" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0f00" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="54" height="54" alt="Instagram" title="Instagram"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/shivanshu26022007-create" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0f00" alt="GitHub"/>
+<a href="https://github.com/ShivanshuDS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="54" height="54" alt="GitHub" title="GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:shivanshu26022007@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-shivanshu26022007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0f00" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="54" height="54" alt="Gmail" title="Gmail"/>
 </a>
 
 <br/><br/>
