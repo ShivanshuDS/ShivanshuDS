@@ -104,7 +104,6 @@
 
 <div align="center"><br/>
 
-<!-- IMPROVEMENT: Added placeholder repo names — update these with your actual repo URLs -->
 | 🗂️ Project | 🔬 Domain | 🛠️ Tech Used | 🔗 Link |
 |:---|:---:|:---:|:---:|
 | 🏠 **House Price Prediction** | Machine Learning | Python, Scikit-Learn, Pandas | [View →](https://github.com/ShivanshuDS/house-price-prediction) |
@@ -126,13 +125,14 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivanshuDS&show_icons=true&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&icon_color=8b4513&text_color=f5deb3&hide_border=false&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShivanshuDS&show_icons=true&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&icon_color=8b4513&text_color=f5deb3&hide_border=false&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshuDS&layout=compact&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&text_color=f5deb3&hide_border=false" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ShivanshuDS&theme=gruvbox&border=d4a017&background=1a0f00&stroke=d4a017&ring=8b4513&fire=d4a017&currStreakLabel=d4a017&sideLabels=f5deb3&dates=a0856b" alt="GitHub Streak" />
+<!-- ✅ FIXED: streak-stats.demolab.com is the updated & reliable URL (herokuapp was deprecated) -->
+<img src="https://streak-stats.demolab.com?user=ShivanshuDS&theme=dark&border=d4a017&background=1a0f00&stroke=d4a017&ring=8b4513&fire=d4a017&currStreakLabel=d4a017&sideLabels=f5deb3&dates=a0856b&hide_total_contributions=false&mode=daily" alt="GitHub Streak" />
 
 </div>
 
@@ -148,8 +148,6 @@
 
 <br/>
 
-
-
 </div>
 
 ---
@@ -163,7 +161,6 @@
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,matplotlib&theme=dark&perline=6" alt="Skill Icons"/>
 
 <br/><br/>
-
 
 <table border="0" align="center">
 <tr>
@@ -192,14 +189,11 @@
 </tr>
 </table>
 
-
 <br/>
 
 </div>
 
 ---
-
-
 
 ## 🤝 ✦ Connect With Me ✦
 
