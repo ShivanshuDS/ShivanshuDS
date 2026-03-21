@@ -119,24 +119,9 @@
 
 ---
 
-## 📊 ✦ GitHub Statistics ✦
 
-<div align="center">
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivanshuDS&show_icons=true&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&icon_color=8b4513&text_color=f5deb3&hide_border=false&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshuDS&layout=compact&theme=gruvbox&border_color=d4a017&bg_color=1a0f00&title_color=d4a017&text_color=f5deb3&hide_border=false" height="175" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- ✅ FIXED: streak-stats.demolab.com is the updated & reliable URL (herokuapp was deprecated) -->
-<img src="https://streak-stats.demolab.com?user=ShivanshuDS&theme=dark&border=d4a017&background=1a0f00&stroke=d4a017&ring=8b4513&fire=d4a017&currStreakLabel=d4a017&sideLabels=f5deb3&dates=a0856b&hide_total_contributions=false&mode=daily" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 📈 ✦ Contribution Activity ✦
 
